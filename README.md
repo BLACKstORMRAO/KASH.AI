@@ -126,7 +126,7 @@ After launching KASH.AI and posting about it on LinkedIn:
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
